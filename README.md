@@ -35,3 +35,5 @@ FILM	- The movie
 STARS	- Number of stars presented on Fandango.com
 RATING	- The Fandango ratingValue for the film, as pulled from the HTML of each page. This is the actual average score the movie obtained.
 VOTES	- number of people who had reviewed the film at the time we pulled it.
+
+Both the datasets and the code notebook is provided make sure to check it
